@@ -18,11 +18,12 @@ Então, não perca mais tempo! Assista ao vídeo e comece a aproveitar os benef�
 
 Se gostou do vídeo, não se esqueça de deixar o seu like, compartilhar com seus amigos e se inscrever no canal para acompanhar mais conteúdos como esse. Aproveite!
 
-Código usado no vídeo: https://github.com/hansalemaos/tutorial_acelerando_python_com_numba
-
 ### Projetos nos quais usei Numba
 
 https://github.com/hansalemaos/locate_pixelcolor_numba
+
 https://github.com/hansalemaos/numba_aot_compiler
+
 https://github.com/hansalemaos/locate_pixelcolor_numbacuda
+
 https://github.com/hansalemaos/charchef
